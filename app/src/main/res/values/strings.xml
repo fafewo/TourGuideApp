@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_info">info</string>
+    <string name="category_see">see</string>
+    <string name="category_eat">eat</string>
+    <string name="category_sleep">sleep</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="city_info">Kassel is a city in the middle of Germany in the federal state Hessen.
+    Due to it\'s past as a summer residence of monachs three castels are in Kassel. One near the city centre, the other two
+    are located in the "Bergpark" together with the World Cultural Heritage "Herkules"</string>
+    <string name="latin">Itaque earum rerum hic tenetur a sapiente delectus</string>
+    <string name="hotel">Hotel/Appartement/Hostel XY</string>
+    <string name="Orangerie1">orangerie</string>
+    <string name="orangerie2">garden castel with a parc, near the city centre</string>
+    <string name="bergpark1">Bergpark</string>
+    <string name="bergpark2">A parc with a water garden and more sights worth seeing</string>
+    <string name="löwenburg1">Löwenburg</string>
+    <string name="löwenburg2">Maison de plaisance of a monach in the Bergpark</string>
+    <string name="herkules1">Herkules</string>
+    <string name="herkules2">Monument with the status as World cultural Heritage, located in the Bergpark</string>
+    <string name="schloss1">Schloss Wilhelmshöhe</string>
+    <string name="schloss2">The castle of Wilhelmshöhe, located in the centre of the Bergpark</string>
+    <string name="ballhaus1">Ballhaus</string>
+    <string name="ballhaus2">The ballroom building of the ancient Monarch, located in parc Bergpark</string>
+    <string name="sanmarino1">SanMarino</string>
+    <string name="sanmarino2">Best Pizza restaurant often filled with students</string>
+    <string name="nachbar1">Nachbar</string>
+    <string name="nachbar2">Best burgers in town</string>
+    <string name="fez1">FEZ</string>
+    <string name="fez2">best Bar in town, often filled with students. Located in the Friedrichstraße</string>
+    <string name="toast1">SimplyToast</string>
+    <string name="toast2">Best sandwiches</string>
+
+
+
+</resources>
